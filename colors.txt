@@ -4,3 +4,6 @@ yellow
 blue
 green
 pur[le ]
+brown
+black
+gray
