@@ -7,3 +7,7 @@ pur[le ]
 brown
 black
 gray
+
+red 
+blue
+coral
