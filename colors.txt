@@ -1,13 +1,15 @@
 red
-orange
-yellow
-blue
 green
-pur[le ]
+orange
 brown
+blue
+
+pur[le ]
+
 black
 gray
-
-red 
 blue
+red 
+yellow
+
 coral
