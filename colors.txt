@@ -13,3 +13,7 @@ red
 yellow
 
 coral
+light blue
+light red
+light brown
+light purple
